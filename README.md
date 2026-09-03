@@ -47,7 +47,7 @@ That is it. Three lines for the server. Two lines for the client.
 
 ```xml
 <dependency>
-    <groupId>com.github.yourusername</groupId>
+    <groupId>com.github.SagarRuhela</groupId>
     <artifactId>easysocket</artifactId>
     <version>v1.0.0</version>
 </dependency>
