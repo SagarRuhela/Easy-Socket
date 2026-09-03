@@ -2,7 +2,6 @@
 
 [![](https://jitpack.io/v/SagarRuhela/Easy-Socket.svg)](https://jitpack.io/#SagarRuhela/Easy-Socket)
 
-
 A lightweight Java WebSocket library that lets you build real-time chat applications in minutes — no boilerplate, no framework lock-in.
 
 ---
