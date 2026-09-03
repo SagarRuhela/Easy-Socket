@@ -1,6 +1,10 @@
 # EasySocket
+[![](https://jitpack.io/v/SagarRuhela/Easy-Socket.svg)](https://jitpack.io/#SagarRuhela/Easy-Socket)
+
 
 A simple Java WebSocket library for building real-time chat applications in minutes.
+
+
 
 ## Installation
 
