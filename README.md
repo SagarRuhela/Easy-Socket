@@ -49,7 +49,7 @@ That is it. Three lines for the server. Two lines for the client.
 <dependency>
     <groupId>com.github.SagarRuhela</groupId>
     <artifactId>Easy-Socket</artifactId>
-    <version>v1.0.1</version>
+    <version>v1.0.2</version>
 </dependency>
 ```
 
